@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ignore osmnx cache directory
+cache/
+
+# ignore zone identifier
+*.Zone.Identifier
+*:Zone.Identifier
+:Zone.Identifier
